@@ -1,1 +1,1 @@
-# Exerc-cio_Problemas_Sequenciais
+# Exercicio_Problemas_Sequenciais
